@@ -48,7 +48,7 @@ export class HotReloadService {
         idleMinutes: 30,
       },
       versionSource: [
-        { type: 'github', url: 'https://api.github.com/repos/openclaw/openclaw/releases' },
+        { type: 'github', url: 'https://api.github.com/repos/WangYan-Good/ai-one/releases' },
         { type: 'internal', url: 'https://internal.openclaw.ai/updates' },
       ],
       versionScheme: 'semver',
